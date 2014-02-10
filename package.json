@@ -1,0 +1,14 @@
+{
+  "name": "Profiles",
+  "description": "aurora Sample",
+  "version": "0.0.1",
+  "author": {
+    "name": "Anzor Bashkhaz"
+  },
+  "devDependencies": {
+    "requirejs" : "",
+    "grunt-contrib-requirejs": "~0.4.1",
+    "almond": "",    
+    "grunt-contrib-uglify": "~0.3.2"
+  }
+}

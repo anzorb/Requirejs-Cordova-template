@@ -1,0 +1,7 @@
+.project
+/platforms/
+/plugins/
+/merges/
+/node_modules/
+/www/app.js
+/www/app.min.js

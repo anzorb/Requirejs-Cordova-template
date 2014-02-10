@@ -1,0 +1,6 @@
+
+    return {
+			aurora : require("main"),
+        }
+       
+}));
